@@ -33,11 +33,12 @@ _This image shows inputs that are taken for creating second part of the body and
 <img width="1280" alt="Letter" src="https://github.com/user-attachments/assets/3029ee55-df4c-40c2-a01f-f0bd195e2c05">
 _This is image shows the personalised love letter generated from the inputs taken_
 
-### Project Demo
 
-# Video
+
+# Demo Video
 
 <[Watch the video on Google Drive](https://drive.google.com/file/d/1OEI_lPikXw7MgIRVapoAt-VgAtp6l_Zk/view?usp=drive_link)>
+
 _Click the link above to see the working of the code. It ontains the code, inputs taken, different options available in the generator and the result - Love Letter_
 
 ---
