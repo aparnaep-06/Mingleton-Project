@@ -20,16 +20,6 @@ This a personalised love letter generator made using python. It is a fun tool th
 - Libraries used: None
 - Tools used: None
 
-### Implementation
-
-# Installation
-
-[commands]
-
-# Run
-
-[commands]
-
 # Demo Images
 
 <img width="1280" alt="Input-1" src="https://github.com/user-attachments/assets/5a591298-935a-45c5-98bc-3c18d9d2b45a">
@@ -45,8 +35,8 @@ _This is image shows the personalised love letter generated from the inputs take
 
 # Video
 
-[Add your demo video link here]
-_Explain what the video demonstrates_
+<alt src="https://drive.google.com/file/d/1OEI_lPikXw7MgIRVapoAt-VgAtp6l_Zk/view?usp=drive_link">
+_Click the link above to see the working of the code. It ontains the code, inputs taken, different options available in the generator and the result - Love Letter_
 
 ---
 
