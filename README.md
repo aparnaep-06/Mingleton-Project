@@ -25,8 +25,10 @@ This a personalised love letter generator made using python. It is a fun tool th
 <img width="1280" alt="Input-1" src="https://github.com/user-attachments/assets/5a591298-935a-45c5-98bc-3c18d9d2b45a">
 _The image shows inputs that are taken for creating the opening part and first part of body of the letter_
 
+
 <img width="1280" alt="Input-2" src="https://github.com/user-attachments/assets/41197561-d852-462e-aacd-3bae33c47244">
 _This image shows inputs that are taken for creating second part of the body and closing part of the letter_
+
 
 <img width="1280" alt="Letter" src="https://github.com/user-attachments/assets/3029ee55-df4c-40c2-a01f-f0bd195e2c05">
 _This is image shows the personalised love letter generated from the inputs taken_
