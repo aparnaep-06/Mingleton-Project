@@ -32,8 +32,9 @@ This a personalised love letter generator made using python. It is a fun tool th
 
 # Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-_Add caption explaining what this shows_
+<img width="1280" alt="readme-banner" src="![Screenshot 2025-03-09 191443](https://github.com/user-attachments/assets/b51e5656-1ec4-46e2-bd66-9cc0e45b4e51)
+">
+_The image shows source code first two functions used in the program_
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 _Add caption explaining what this shows_
