@@ -1,24 +1,24 @@
-# [LoveScript] 🎯
+# LoveScript 🎯
 
 ##  A personalised love letter generator
 
-### Team Name: [Syncode]
+### Team Name: Syncode
 
 ### Team Members
 
-- Member 1: [Aparna EP] - [Government College of Engineering Kannur] -[Code developing]
-- Member 2: [Ahammed Irfan] - [Government College of Engineering Kannur] - [Help]
+- Member 1: Aparna EP - Government College of Engineering Kannur - Code developing
+- Member 2: Ahammed Irfan - Government College of Engineering Kannur - Help
 
 ### Project Description
 
-[This a personalised love letter generator made using python. It is a fun tool that helps you express your feelings to the person in 2 or 3 lines.]
+This a personalised love letter generator made using python. It is a fun tool that helps you express your feelings to the person in 2 or 3 lines.
 
 ## Technical Details
 
-- [Languages used: Python]
-- [Frameworks used: None]
-- [Libraries used: None]
-- [Tools used: None]
+- Languages used: Python
+- Frameworks used: None
+- Libraries used: None
+- Tools used: None
 
 ### Implementation
 
