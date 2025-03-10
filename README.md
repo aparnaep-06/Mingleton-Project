@@ -7,7 +7,7 @@
 ### Team Members
 
 - Member 1: Aparna EP - Government College of Engineering Kannur - Code developing
-- Member 2: Ahammed Irfan - Government College of Engineering Kannur - Help
+- Member 2: Ahammed Irfan - Government College of Engineering Kannur
 
 ### Project Description
 
